@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /?ip=127.0.0.1

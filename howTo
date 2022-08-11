@@ -1,0 +1,2 @@
+docker build -t my-php-app:v1 .
+docker run -d -p 8002:80 my-php-app:v1
